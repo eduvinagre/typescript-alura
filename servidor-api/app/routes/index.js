@@ -1,4 +1,4 @@
-/* Simple Code made just to give a service to the application para fornecer o   */
+/* Simple Code made just to give a service to the application para forne  */
 
 var api = require("../api");
 
