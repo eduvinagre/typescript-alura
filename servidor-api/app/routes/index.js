@@ -1,4 +1,4 @@
-/* Simple Code made just to give a service to the application para forne  */
+/* Simple Code made just to give a service to the application para */
 
 var api = require("../api");
 
