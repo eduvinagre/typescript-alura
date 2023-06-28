@@ -1,4 +1,4 @@
-/* Simple CodeCódigo simplórioapenas para fornecer o serviço para a aplicação */
+/* Simple Code made juste to oapenas para fornecer o serviço para a aplicação */
 
 var api = require("../api");
 
