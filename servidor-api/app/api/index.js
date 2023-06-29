@@ -1,4 +1,4 @@
-/* This is a simple code made only to give service, apenas para fornecer o serviço para a aplicação */
+/* This is a simple code made only to give service to the , apenas para fornecer o serviço para a aplicação */
 var api = {};
 
 api.dados = function (req, res) {
