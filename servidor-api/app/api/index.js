@@ -1,4 +1,4 @@
-/* This is a simple code made only to give service to the application, a */
+/* This is a simple code made only to give service to the application */
 var api = {};
 
 api.dados = function (req, res) {
