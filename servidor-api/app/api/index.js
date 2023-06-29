@@ -1,4 +1,4 @@
-/* This code simplório, apenas para fornecer o serviço para a aplicação */
+/* This is a simple code simplório, apenas para fornecer o serviço para a aplicação */
 var api = {};
 
 api.dados = function (req, res) {
