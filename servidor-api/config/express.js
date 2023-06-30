@@ -1,4 +1,4 @@
-/* Código , apenas para fornecer o serviço para a aplicação */
+/* Simple code, just to give service to the application , apenas para fornecer o serviço para a aplicação */
 
 var express = require("express"),
   app = express(),
